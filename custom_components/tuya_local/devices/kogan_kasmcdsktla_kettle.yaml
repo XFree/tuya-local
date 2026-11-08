@@ -23,7 +23,7 @@ entities:
         name: current_temperature
         type: integer
       - id: 4
-        name: target_temperature
+        name: temperature
         type: integer
         unit: C
         range:

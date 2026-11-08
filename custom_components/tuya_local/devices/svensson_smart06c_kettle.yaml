@@ -3,6 +3,9 @@ products:
   - id: c0abgyio6epc07b2
     manufacturer: Svensson
     model: Smart06C
+  - id: v3iccjh5imuaab9l
+    manufacturer: Sibling
+    model: Smart Kettle
 entities:
   - entity: water_heater
     translation_key: kettle
@@ -132,3 +135,4 @@ entities:
         type: integer
         name: sensor
         unit: min
+
